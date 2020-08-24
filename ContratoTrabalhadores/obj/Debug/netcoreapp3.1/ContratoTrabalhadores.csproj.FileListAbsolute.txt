@@ -1,0 +1,13 @@
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\bin\Debug\netcoreapp3.1\ContratoTrabalhadores.exe
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\bin\Debug\netcoreapp3.1\ContratoTrabalhadores.deps.json
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\bin\Debug\netcoreapp3.1\ContratoTrabalhadores.runtimeconfig.json
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\bin\Debug\netcoreapp3.1\ContratoTrabalhadores.runtimeconfig.dev.json
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\bin\Debug\netcoreapp3.1\ContratoTrabalhadores.dll
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\bin\Debug\netcoreapp3.1\ContratoTrabalhadores.pdb
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\obj\Debug\netcoreapp3.1\ContratoTrabalhadores.csprojAssemblyReference.cache
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\obj\Debug\netcoreapp3.1\ContratoTrabalhadores.AssemblyInfoInputs.cache
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\obj\Debug\netcoreapp3.1\ContratoTrabalhadores.AssemblyInfo.cs
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\obj\Debug\netcoreapp3.1\ContratoTrabalhadores.csproj.CoreCompileInputs.cache
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\obj\Debug\netcoreapp3.1\ContratoTrabalhadores.dll
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\obj\Debug\netcoreapp3.1\ContratoTrabalhadores.pdb
+C:\Users\Israe\source\repos\ContratoTrabalhadores\ContratoTrabalhadores\obj\Debug\netcoreapp3.1\ContratoTrabalhadores.genruntimeconfig.cache
